@@ -6,6 +6,9 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
+  "keywords": [
+    "heroku"
+  ],
   "dependencies": {
     "apos-to-lex-form": "^1.0.0",
     "cookie-parser": "~1.4.4",
